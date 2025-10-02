@@ -58,4 +58,4 @@ if st.button("Classify Specialty"):
 
 # Footer
 st.markdown("---")
-st.caption("Powered by Google Cloud Vertex AI • Group Project ITS 2130")
+st.caption("Powered by Google Cloud Vertex AI • Predictors • Group Project ITS 2130")
